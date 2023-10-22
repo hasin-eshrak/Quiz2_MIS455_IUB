@@ -38,7 +38,7 @@
 }
 .section_2{
 
-    display: :flex;
+    display:flex;
 }
 
 .empty_div{
@@ -51,7 +51,7 @@
 }
 
 .p1{
-    color::rgb(164, 97, 170);
+    color:srgb(164, 97, 170);
 }
 
 .second_link{
